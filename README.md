@@ -54,4 +54,32 @@
 ![](photo/16.PNG)
 
 ## Pembuatan Form
+# Form Input
 
+![](photo/26.PNG)
+
+# Form Button
+
+- input
+![](photo/19.PNG)
+
+-output
+![](photo/20.PNG)
+
+## HTML DOM
+# Pilihan menggunakan checkBox dengan perhitungan otomatis
+
+- input
+![](photo/21.PNG)
+
+-output
+![](photo/22.PNG)
+
+Pertanyaan dan Tugas
+1. Buat script untuk melakukan validasi pada isian form.
+
+- input
+![](photo/23.PNG)
+
+- output
+![](photo/24.PNG)
